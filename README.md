@@ -1,4 +1,4 @@
-# codegig
+# Code Gig
 
 Simple web app to post a job offer.
 
