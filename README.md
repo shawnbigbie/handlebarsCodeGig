@@ -18,7 +18,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. `npm install`
 2. `npm start`
-3.  Open http://localhost:3000 or live at 
+3.  Open http://localhost:3000
 
 This app uses postgre sql to store data. You can change the access data in `config/database.js`.
 
